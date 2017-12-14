@@ -1,0 +1,36 @@
+body {
+    width: 800px;
+    min-height: 120%;
+    margin: 0;
+    background-color: #fff;
+    min-width: 357px;
+    overflow-x: hidden;
+    font-family: "Helvetica Neue",Helvetica,"Hiragino Kaku Gothic Pro","Lucida Grande",Verdana,Arial,Meiryo,"メイリオ",sans-serif;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.input-box{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.input {
+    line-height: 18px;
+    padding: 0;
+}
+
+.url-input {
+    width: 69%;
+}
+
+.filename-input {
+    width: 20%;
+}
+
+.sync-button {
+    background-color: #98fb98;
+    line-height: 18px;
+    width: 9%;
+    padding: 0;
+}
